@@ -29,7 +29,7 @@ Y A   H R
 P     I
  * 
  * 
- * @author BGH32320
+ * @author Gourahari Das
  *
  */
 public class ZigzagConversion {

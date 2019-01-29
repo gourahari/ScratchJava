@@ -18,7 +18,7 @@ package com.goura.leetcode;
  * assume that your function returns 0 when the reversed integer overflows.
  * 
  * 
- * @author BGH32320
+ * @author Gourahari Das
  *
  */
 public class Reverse32BitSignedInteger {

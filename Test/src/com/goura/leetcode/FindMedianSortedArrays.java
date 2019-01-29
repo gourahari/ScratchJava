@@ -22,7 +22,7 @@ nums2 = [3, 4]
 
 The median is (2 + 3)/2 = 2.5
  * 
- * @author BGH32320
+ * @author Gourahari Das
  *
  */
 public class FindMedianSortedArrays {

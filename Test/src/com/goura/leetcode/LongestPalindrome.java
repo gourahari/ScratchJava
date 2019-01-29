@@ -18,7 +18,7 @@ package com.goura.leetcode;
  * 
  * 
  * 
- * @author BGH32320
+ * @author Gourahari Das
  *
  */
 public class LongestPalindrome {
