@@ -30,9 +30,9 @@ public class RotateImage {
     }
 
     private static void swap(int[][] matrix, int i, int j, int m, int n) {
-    	int temp = matrix[i][j];
-    	matrix[i][j] = matrix[m][n];
-    	matrix[m][n] = temp;
+    	matrix[i][j] = matrix[i][j] + matrix[m][n];
+    	matrix[m][n] = matrix[i][j] - matrix[m][n];
+        matrix[i][j] = matrix[i][j] - matrix[m][n];
 	}
 
     private static void print2D(int matrix[][]) {
